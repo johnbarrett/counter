@@ -1,0 +1,56 @@
+body {
+
+    background-color: cyan;
+
+}
+
+#box-in {
+
+    background-color: #4CAF50;
+    border: none;
+    border-radius: 8px;
+    width: 300px;
+    color: white;
+    font-size: 54px;
+    font-family: 'Arial';
+    margin-top: 25px;  
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+    padding-top: 10px;
+    padding-right: 30px;
+    padding-bottom: 30px;
+    padding-left: 30px;
+
+}
+
+#counter {
+
+    background-color: white;
+    border: none;
+    border-radius: 8px;
+    color: green;
+    font-size: 72px;
+    font-family: 'Arial'; 
+    margin-top: 36px;
+    margin-right: auto;
+    margin-left: auto;
+    width: 140px;
+
+}
+
+#button {
+
+
+    background-color: white;
+    border: none;
+    border-radius: 8px;
+    color: green;
+    font-size: 52px;
+    transition: 0.4s;
+    font-family: 'Arial';   
+    height: 60px;
+    width: 60px;
+
+
+}
